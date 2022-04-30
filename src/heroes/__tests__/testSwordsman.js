@@ -1,4 +1,4 @@
-import Swordsman from '../Swordsman';
+import Swordsman from '../Swordsman.js';
 
 test('test show object type', () => {
   const result = new Swordsman('Swordsman', 'Swordsman');

@@ -1,4 +1,4 @@
-import Daemon from '../Daemon';
+import Daemon from '../Daemon.js';
 
 test('test show object type Daemon', () => {
   const result = new Daemon('DaemonNew', 'Daemon');

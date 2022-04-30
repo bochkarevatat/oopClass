@@ -1,4 +1,4 @@
-import Boweman from '../Boweman';
+import Boweman from '../Boweman.js';
 
 test('test show object type', () => {
   const result = new Boweman('BowemanNew', 'Boweman');

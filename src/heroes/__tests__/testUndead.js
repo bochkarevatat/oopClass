@@ -1,4 +1,4 @@
-import Undead from '../Undead';
+import Undead from '../Undead.js';
 
 test('test show object type Undead', () => {
   const result = new Undead('UndeadNew', 'Undead');

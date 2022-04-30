@@ -1,4 +1,4 @@
-import Magician from '../Magician';
+import Magician from '../Magician.js';
 
 test('test show object type', () => {
   const result = new Magician('Magician', 'Magician');

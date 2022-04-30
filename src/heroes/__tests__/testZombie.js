@@ -1,4 +1,4 @@
-import Zombie from '../Zombie';
+import Zombie from '../Zombie.js';
 
 test('test show object type Zombie', () => {
   const result = new Zombie('ZombieNew', 'Zombie');
